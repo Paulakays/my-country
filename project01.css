@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+body {
+  background-image: ;
+  margin: auto;
+}
+td {
+}
+button {
+  color: ;
+  box-shadow: 2px 0px 12px 0px;
+  padding: 15px;
+  font-size: medium;
+}
+button:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+h5 {
+  text-align: center;
+}
